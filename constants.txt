@@ -1,0 +1,4 @@
+username = xxxxx
+password = xxxxx
+pin = xxxxx
+downloadsFolder = C:/Users/aniru/Downloads
